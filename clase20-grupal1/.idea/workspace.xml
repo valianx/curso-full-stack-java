@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fb3b73f4-b88c-40b4-a031-c163701b7599" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../clase19-grupal/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clase19-grupal/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clase19-grupal/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clase19-grupal/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clase19-grupal/clase19-grupal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clase19-grupal/src/actividad1/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clase19-grupal/src/actividad1/Distribuidora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clase19-grupal/src/actividad1/Pelicula.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clase19-grupal/src/actividad1/Streaming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clase19-grupal/src/formativa/Habitacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clase19-grupal/src/formativa/Paciente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clase19-grupal/src/formativa/clinica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../formativa-clase19.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../formativa-clase19/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../formativa-clase19/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../formativa-clase19/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../formativa-clase19/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../formativa-clase19/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../formativa-clase19/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../formativa-clase19/src/formativa/clase19/Habitacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../formativa-clase19/src/formativa/clase19/Paciente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../formativa-clase19/src/formativa/clase19/clinica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pruebaInvidivual2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pruebaInvidivual2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pruebaInvidivual2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pruebaInvidivual2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pruebaInvidivual2/pruebaInvidivual2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pruebaInvidivual2/src/prueba/Nerfli.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pruebaInvidivual2/src/prueba/Plan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pruebagrupal2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pruebagrupal2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pruebagrupal2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pruebagrupal2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pruebagrupal2/pruebagrupal2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pruebagrupal2/src/pruebagrupal2/Sala.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase10-2/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase10-2/nbproject/private/private.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../calculadora/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../calculadora/nbproject/private/private.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clas11-1/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../clas11-1/nbproject/private/private.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase10-1/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../clase10-1/nbproject/private/private.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase10-3/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../clase10-3/nbproject/private/private.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase10-4/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../clase10-4/nbproject/private/private.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grupal11/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../grupal11/nbproject/private/private.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grupal15/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../grupal15/nbproject/private/private.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1jFISiBeM1sDXPYHpwSKSrG7s2o" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb3b73f4-b88c-40b4-a031-c163701b7599" name="Default Changelist" comment="" />
+      <created>1603393415223</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603393415223</updated>
+      <workItem from="1603393416369" duration="1208000" />
+      <workItem from="1603476912894" duration="93000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="94" key="#Project_Structure" timestamp="1603393426898">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1603393426898" />
+    <state x="551" y="94" key="new project wizard" timestamp="1603477005557">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="551" y="94" key="new project wizard/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1603477005557" />
+  </component>
+</project>
