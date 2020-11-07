@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="evaluacion_03_individual">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/evaluacion_03_individual.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
